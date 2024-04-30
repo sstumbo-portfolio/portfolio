@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Sally Stumbo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : Tech Writer [Documentation | Knowledge Base | B2B | SaaS | Cybersecurity]
+  bio    : Customer Enablement: B2B, SaaS, Cybersecurity
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
