@@ -3,28 +3,16 @@ permalink: /resume/
 title: "Resume"
 ---
 Sally Stumbo is a talented technical writer who has worked in a variety of roles focused on customer enablement.
-# Skills
-- Knowledge-Centered Service (KCS) v6 Certified
-- Docs-as-code
-- Markdown
-- Content strategy and taxonomy
-- Agile methodology
+### Skills
+Knowledge-Centered Service (KCS) v6 Certified, Docs-as-code, Markdown, HTML, Content strategy and taxonomy, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
 
-# Tools and Software
-- GitHub
-- Atlassian Jira
-- Gitbook
-- Salesforce
-- CXOne Expert (formerly MindTouch)
-- MindTickle
-- Skilljar
-- Aha! Product Management
-- Intercom
-- Guru
-- Camtasia
-- Adobe Photoshop and Lightroom
-- Microsoft Office Suite
+### Tools and Software
+**Customer Management**: Salesforce, Intercom, Zendesk, NICE CXOne Expert (formerly MindTouch), Atlassian Jira, Aha! Product Management, Nutshell CRM, Slack, Cisco WebEx  
+**Documentation**: GitHub, GitBook, WordPress, Guru, Notion, Camtasia, SnagIt, Adobe Photoshop, Figma  
+**Learning Management System (LMS)**: MindTickle, Skilljar  
+**Project Management**: Asana, Trello, Monday
 
+---
 # Work Experience
 ## Manager, Knowledge & Documentation - Panther Labs
 ### November 2021 - April 2024
@@ -52,4 +40,4 @@ While working at Panther, I rewrote and reorganized every page of the docs set. 
 - Contributed to, edited, and reviewed training/enablement content for Duo’s Learning Management System (LMS).
 - Planned and deployed Knowledge-Centered Service (KCS) v6 strategies.
 - Interviewed job candidates and scored writing tests in the Customer Success department.
-- In my previous role (June 2016-April 2018), I was a Technical Support Engineer. I assisted customers with technical troubleshooting via phone, chat, and email, and contributed technical content to the KB. The areas of troubleshooting included computer networking, DNS, RADIUS, LDAP, SSO, authentication proxy, Active Directory, and various technical software integrations.
+- In my first role at Duo (June 2016-April 2018), I was a Technical Support Engineer. I assisted customers with technical troubleshooting via phone, chat, and email, and contributed technical content to the KB. The areas of troubleshooting included computer networking, DNS, RADIUS, LDAP, SSO, authentication proxy, Active Directory, and various technical software integrations.
