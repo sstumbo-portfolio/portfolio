@@ -7,11 +7,11 @@ Sally Stumbo is a talented technical writer who has worked in a variety of roles
 Knowledge-Centered Service (KCS) v6 Certified, Docs-as-code, Markdown, HTML, Content strategy and taxonomy, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
 
 ### Tools and Software
-**Customer Management**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Cisco WebEx  
+**Customer Management**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx  
 **Documentation**: GitHub, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion, Camtasia, SnagIt, Adobe Photoshop, Figma  
 **Learning Management System (LMS)**: MindTickle, Skilljar  
 **Project Management**: Asana, Trello, Monday  
-**Other**: Atlassian Jira, Aha! Product Management
+**Other**: Atlassian Jira, Aha! Product Management, CommandBar
 
 ---
 # Work Experience
