@@ -16,7 +16,9 @@ If you know any elementary school aged children, then you know his next question
 
 > "How?" 
 
-So I would like to welcome you to my quest to explain electric guitars to my 2nd grader! While I am simplifying the language for a child, this information should be helpful to readers of any age who wish to understand the basics of an electric guitar.
+The alarms were going off in my Technical Writer Brain, as I felt the urgent need to research, learn everything I could, then convey the information clearly and concisely to a child. 
+
+Welcome to my quest to explain electric guitars to my 2nd grader! While I am simplifying the language for a child, this information should be helpful to readers of any age who wish to understand the basics of an electric guitar.
 
 In order to understand how a guitar's pickups work, it's important to also understand the other parts of an electric guitar and what each of them does. Let's discuss strings, pickups and signal processing, and amplification.
 
