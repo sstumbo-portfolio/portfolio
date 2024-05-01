@@ -62,9 +62,11 @@ Most "combo amps" -- an amp containing both the amplifier and speaker(s) togethe
 
 To summarize the process of producing sound through an amp with an electric guitar:
 1. Pluck or strum to apply force to a guitar string, causing it to vibrate.
-2. A sound is produced. The frequency of the string's vibration changes the pitch of the sound. Higher frequencies result in higher pitched sounds, and lower frequencies result in lower pitched sounds.
-3. As the strings vibrate and produce sound, it affects the magnetic field around the strings. The pickups are magnets wrapped in wire coil. The magnetic field changes affect the pickups, triggering them to generate an electrical signal.
-4. The electrical signal is processed through the guitar and send to the amp.
-5. The amp increases the power of the signal (it amplifies it), and sends it to a speaker, where it is converted back into sound waves that we can hear.
+2. A sound is produced.
+     - The frequency of the string's vibration changes the pitch of the sound. Higher frequencies result in higher pitched sounds, and lower frequencies result in lower pitched sounds.
+3. As the strings vibrate and produce sound, it affects the magnetic field bewteen the strings and the pickups.
+4. The magnetic field changes affect the pickups, triggering them to generate an electrical signal.
+5. The electrical signal is processed through the guitar and send to the amp.
+6. The amp increases the power of the signal (it amplifies it), and sends it to a speaker, where it is converted back into sound waves that we can hear.
 
 My son is going to get more than he bargained for, as I plan to read this post to him tonight as a bedtime story. Sweet dreams, everyone! 
