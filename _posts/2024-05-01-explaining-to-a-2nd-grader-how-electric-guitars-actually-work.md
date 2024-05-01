@@ -48,7 +48,7 @@ Most "combo amps" -- an amp containing both the amplifier and speaker(s) togethe
 
 > :bulb: **My Go-To**:  I've experimented with different brands and setups, and I am happy with my Fender FM 212 DSP combo amp. While I have experimented with Boss and DigiTech brand distortion pedals, I actually prefer my amp's built-in distortion. I can access clean (no effects) and two separate channels of effects via the amp's attached foot pedal. 
 
-# The whole process, from strumming to making sound out of an amp
+---
 
 To summarize the process of producing sound through an amp with an electric guitar:
 1. Pluck or strum to apply force to a guitar string, causing it to vibrate.
