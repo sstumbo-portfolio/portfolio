@@ -1,5 +1,5 @@
 ---
-title: "How I use journalism skills in technical writing"
+title: "The 5 journalism skills that lend themselves to great technical writing"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
