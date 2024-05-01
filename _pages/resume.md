@@ -27,17 +27,22 @@ Panther Labs is a cloud-native, code-driven detection and response platform.
 - Contributed to weekly support management meetings, support case reviews, and support training documentation.
 - Performed content audits to ensure accurate and up-to-date information in the documentation and knowledge base, performed docs site accessibility audit to comply with WCAG 2.1 standards.
 
-  
-**Writing Samples**
- 
-While working at Panther, I rewrote and reorganized every page of the docs set. For a specific example, see the [Panther Developer Workflows section](https://docs.panther.com/panther-developer-workflows/overview) of the docs. 
 
 ## Technical Writer III - Duo Security (now a part of Cisco) 
 ### June 2016 - November 2021
-- Wrote, edited, verified, and published KB articles for internal and external consumption.
+Duo Security is a cybersecurity company that offers solutions for multi-factor authentication and access management. 
+- Wrote, edited, verified, and published KB articles for an internal and external audience, catering content to an audience of end-users and system administrators.
 - Developed the KB Publisher program: I mentored support engineers to improve their technical writing skills and helped them work toward earning publishing rights in the KB.
 - Managed and developed talent in a junior technical writer.
 - Contributed to, edited, and reviewed training/enablement content for Duo’s Learning Management System (LMS).
-- Planned and deployed Knowledge-Centered Service (KCS) v6 strategies.
+- Planned and deployed Knowledge-Centered Service (KCS) v6 strategies, developed and conducted training sessions within the support organization.
 - Interviewed job candidates and scored writing tests in the Customer Success department.
 - In my first role at Duo (June 2016-April 2018), I was a Technical Support Engineer. I assisted customers with technical troubleshooting via phone, chat, and email, and contributed technical content to the KB. The areas of troubleshooting included computer networking, DNS, RADIUS, LDAP, SSO, authentication proxy, Active Directory, and various technical software integrations.
+
+## Product Specialist - Nutshell CRM
+### August 2012 - June 2016
+Nutshell provides customer relation management  (CRM) software, including email marketing and contact management.
+- Used my deep product expertise to answer customer support cases, billing and renewal questions, and sales inquiries via phone, chat, and email.
+- Helped guide customers through successful deployments: assisted with migrating their data into Nutshell, provided guidance on which features would work best for their use cases, and walked through testing scenarios to ensure their account was set up properly.
+- Developed long-form customer training documentation.
+- Wrote, edited, and published KB articles.
