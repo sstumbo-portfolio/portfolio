@@ -15,6 +15,13 @@ Knowledge-Centered Service (KCS) v6 Certified, Docs-as-code, Markdown, HTML, Con
 
 ---
 # Work Experience
+
+## Technical Writer (Contract) - Censys
+### May 2024 - Present
+Censys is a platform that provides security teams with a map of the internet to help them defend against threats.
+- Own the process creation and development of technical product documentation.
+- Work closely with Product and Engineering to understand and prioritize documentation needs.
+
 ## Manager, Knowledge & Documentation - Panther Labs
 ### November 2021 - April 2024
 Panther Labs is a cloud-native, code-driven detection and response platform. 
