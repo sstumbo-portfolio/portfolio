@@ -4,20 +4,30 @@ title: "Resume"
 ---
 Sally Stumbo is a talented technical writer who has worked in a variety of roles focused on customer enablement.
 ### Skills
-Knowledge-Centered Service (KCS) v6 Certified, Docs-as-code, Markdown, HTML, Content strategy and taxonomy, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
+Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, content strategy and taxonomy, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
 
 ### Tools and Software
-**Customer Management**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx  
-**Documentation**: GitHub, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion, Camtasia, SnagIt, Adobe Photoshop, Figma  
-**Learning Management System (LMS)**: MindTickle, Skilljar  
+**Customer Management and Support**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx, Slack, Pylon  
+**Documentation**: GitHub, Docusaurus, VSCode, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion, Camtasia, SnagIt, Adobe Photoshop, Figma  
+**Learning Management System (LMS)**: MindTickle, Skilljar, Thought Industries  
 **Project Management**: Asana, Trello, Monday  
 **Other**: Atlassian Jira, Aha! Product Management, CommandBar
 
 ---
 # Work Experience
 
+## Senior Technical Writer - Cortex
+### August 2024 - Present
+Cortex is an internal developer portal that helps development teams achieve engineering excellence.
+- Own the process creation for technical product documentation, including style guides, publication guides, and contribution guides.
+- Manage the documentation release process, aligning with the product and engineering teams to produce documentation when features and updates are released.
+- Overhauled existing documentation; improved and clarified content, applied templates for consistency, and reorganized the docs site taxonomy to make content more findable for customers.
+- Led the company through a docs platform transition, aiming to increase collaboration across the organization.
+- Contribute UX writing for the app, creating Pull Requests directly against the front-end code repository via GitOps.
+- Started a CX department internal blog, promoting knowledge-sharing across the CX department.
+
 ## Technical Writer (Contract) - Censys
-### May 2024 - Present
+### May 2024 - August 2024
 Censys is a platform that provides security teams with a map of the internet to help them defend against threats.
 - Own the process creation and development of technical product documentation.
 - Work closely with Product and Engineering to understand and prioritize documentation needs.
