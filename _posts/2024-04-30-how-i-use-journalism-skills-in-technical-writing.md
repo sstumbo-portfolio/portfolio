@@ -1,6 +1,6 @@
 ---
 title: "The 5 journalism skills that lend themselves to great technical writing"
-date: 2024-04-30T15:34:30-04:00
+date: 2024-09-30T15:34:30-04:00
 categories:
   - blog
 tags:
