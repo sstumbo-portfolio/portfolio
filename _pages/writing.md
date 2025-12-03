@@ -16,5 +16,6 @@ To enhance clarity and consistency, I focus on developing and implementing templ
  - Long-form guides:
     - [Guide to Duo Restore for Duo Mobile account recovery](https://help.duo.com/s/article/duo-restore)
     - [Ensure SOC 2 compliance](https://docs.cortex.io/guides/compliance/soc2)
+    - [Accelerate migration to k8s](https://docs.cortex.io/guides/migrations-and-modernization/accelerate-migration-to-k8s)
  - Blogs: Click the [Blogs](/posts) link at the top of this site! 
 
